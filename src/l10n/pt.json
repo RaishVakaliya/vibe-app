@@ -1,0 +1,160 @@
+{
+  "common": {
+    "continue": "Continuar",
+    "done": "Feito",
+    "cancel": "Cancelar",
+    "retry": "Tentar novamente",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "share": "Compartilhar",
+    "copy": "Copiar",
+    "close": "Fechar",
+    "yes": "Sim",
+    "no": "Não",
+    "ok": "OK",
+    "loading": "Carregando..."
+  },
+  "home": {
+    "title": "Início",
+    "greeting": "Olá, {{name}} 👋",
+    "greetingGuest": "Bem-vindo ao VIBE 👋",
+    "yourStreak": "🔥 {{count}} dias de sequência",
+    "dailyQuestion": "Pergunta do Dia",
+    "dailyQuestionSubtitle": "Responda hoje para manter sua sequência",
+    "trendingCategories": "Categorias em Alta",
+    "allCategories": "Todas as Categorias"
+  },
+  "categories": {
+    "couples": "Casais",
+    "friends": "Amigos",
+    "best_friends": "Melhores Amigos",
+    "party": "Festa",
+    "deep_talk": "Conversa Profunda",
+    "funny": "Engraçado",
+    "would_you_rather": "Você Prefere",
+    "never_have_i_ever": "Nunca na Minha Vida",
+    "truth_or_dare": "Verdade ou Desafio",
+    "who_knows_me_best": "Quem me Conhece Melhor",
+    "most_likely_to": "Mais Provável",
+    "date_night": "Noite a Dois",
+    "family": "Família",
+    "ice_breakers": "Quebra-gelo",
+    "random": "Aleatório",
+    "custom": "Personalizado",
+    "mild": "Leve",
+    "medium": "Médio",
+    "spicy": "Picante"
+  },
+  "game": {
+    "startGame": "Começar",
+    "questionOf": "{{current}} / {{total}}",
+    "intensity": "Intensidade",
+    "questionCount": "Número de Perguntas",
+    "gameComplete": "Jogo Concluído! 🎉",
+    "playAgain": "Jogar Novamente",
+    "finishGame": "Terminar Jogo"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signUp": "Cadastrar",
+    "continueAsGuest": "Continuar como Convidado",
+    "guestWarning": "O progresso do convidado não é salvo na nuvem",
+    "orSignIn": "ou entre com e-mail",
+    "email": "E-mail",
+    "password": "Senha",
+    "name": "Nome",
+    "forgotPassword": "Esqueceu a senha?",
+    "noAccount": "Não tem conta?",
+    "hasAccount": "Já tem conta?",
+    "createAccount": "Criar Conta",
+    "termsAgreement": "Ao continuar, você concorda com nossos Termos e Política de Privacidade."
+  },
+  "premium": {
+    "title": "VIBE PRO",
+    "subtitle": "Liberte toda a experiência VIBE",
+    "benefit1": "Perguntas e categorias ilimitadas",
+    "benefit2": "Completamente sem anúncios",
+    "benefit3": "Gerador de perguntas por IA",
+    "benefit4": "Temas e personalizações exclusivos",
+    "benefit5": "Recursos de salas premium",
+    "benefit6": "Atualizações prioritárias",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "lifetime": "Vitalício",
+    "perMonth": "por mês",
+    "perYear": "por ano",
+    "oneTimePurchase": "compra única",
+    "mostPopular": "Mais Popular",
+    "bestValue": "Melhor Valor",
+    "savePercent": "Economize {{percent}}%",
+    "subscribe": "Assinar VIBE PRO",
+    "restorePurchases": "Restaurar Compras",
+    "termsNote": "A assinatura é renovada automaticamente a menos que cancelada."
+  },
+  "profile": {
+    "gamesPlayed": "Jogos",
+    "questionsAnswered": "Perguntas",
+    "streakDays": "Sequência",
+    "achievements": "Conquistas",
+    "favorites": "Favoritos",
+    "settings": "Configurações",
+    "notifications": "Notificações",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "rateApp": "Avaliar o App",
+    "version": "Versão {{version}}"
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "empty": "Nenhum Favorito",
+    "emptyDesc": "Favorite perguntas durante os jogos para encontrá-las aqui"
+  },
+  "settings": {
+    "title": "Configurações",
+    "appearance": "Aparência",
+    "themeDark": "Escuro",
+    "themeLight": "Claro",
+    "themeSystem": "Sistema",
+    "sound": "Som",
+    "haptics": "Haptics",
+    "notifications": "Notificações",
+    "dailyReminder": "Pergunta Diária",
+    "streakReminder": "Lembrete de Sequência",
+    "language": "Idioma"
+  },
+  "multiplayer": {
+    "createRoom": "Criar Sala",
+    "joinRoom": "Entrar na Sala",
+    "roomCode": "Código da Sala",
+    "enterCode": "Digite o Código de 6 Letras",
+    "copyCode": "Copiar Código",
+    "waitingForPlayers": "Aguardando jogadores...",
+    "players": "{{count}} jogador(es)",
+    "startNow": "Começar"
+  },
+  "language": {
+    "title": "Escolha seu Idioma",
+    "subtitle": "Você pode alterá-lo a qualquer momento nas configurações"
+  },
+  "search": {
+    "placeholder": "Buscar perguntas..."
+  },
+  "create": {
+    "title": "Criar Jogo",
+    "gameName": "Nome do Jogo",
+    "gameNamePlaceholder": "Ex: Noite de Jogo em Família",
+    "aiGenerate": "🤖 Gerar com IA",
+    "questionCount": "{{count}} pergunta(s) adicionada(s)",
+    "questionPlaceholder": "Digite sua pergunta",
+    "addQuestion": "Adicionar Pergunta",
+    "publish": "Salvar Jogo",
+    "minQuestions": "Adicione pelo menos 3 perguntas"
+  },
+  "errors": {
+    "generic": "Algo deu errado. Tente novamente.",
+    "authFailed": "Falha na autenticação",
+    "weakPassword": "A senha deve ter pelo menos 6 caracteres",
+    "roomNotFound": "Sala não encontrada"
+  }
+}
